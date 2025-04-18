@@ -1,23 +1,4 @@
 # OtoPonic
 Solusi Pertanian Cerdas: Otomatisasi Hidroponik Berbasis IoT dengan Kendali Jarak Jauh dan Aplikasi Real-Time.
 
-# Fitur Utama 
-
-Monitoring Real-Time Memantau parameter penting seperti :
-• pH air
-• Nutrisi dalam air
-• Suhu air
-• Suhu dan kelembaban lingkungan
-• Ketinggian air dalam pipa hidroponik
-
-Kontrol Otomatis : 
-• Pompa nutrisi otomatis saat kadar nutrisi terlalu rendah
-• Exhaust Fan jika suhu terlalu tinggi
-• Semprotan tanaman otomatis seperti di taman
-• Pompa pH up/down saat pH keluar dari batas
-• Penyiraman / pengurasan otomatis dalam pipa hidroponik
-
-Kendali Jarak Jauh via Aplikasi/Web : 
-• Dashboard untuk melihat data sensor
-• Kontrol manual pompa, nutrisi, lampu, dan sirkulasi air
-• Notifikasi jika terjadi kondisi abnormal
+OtoPonic adalah solusi pertanian cerdas berbasis IoT yang dirancang untuk mengotomatiskan sistem hidroponik dengan fitur pemantauan real-time dan kendali jarak jauh melalui aplikasi atau web. Sistem ini mampu memantau berbagai parameter penting seperti pH air, kadar nutrisi, suhu air, suhu dan kelembaban lingkungan, serta ketinggian air dalam pipa hidroponik. OtoPonic dilengkapi dengan fitur kontrol otomatis, seperti aktivasi pompa nutrisi saat kadar terlalu rendah, pengaktifan exhaust fan jika suhu terlalu tinggi, sistem penyemprotan tanaman otomatis, pengaturan pH air dengan pompa pH up/down, dan penyiraman atau pengurasan otomatis dalam instalasi hidroponik. Selain itu, pengguna juga dapat mengontrol sistem secara manual melalui dashboard yang intuitif serta menerima notifikasi saat terjadi kondisi abnormal. Proyek ini bertujuan untuk meningkatkan efisiensi dan kenyamanan dalam bercocok tanam hidroponik, terutama bagi pengguna yang ingin memantau dan mengelola kebun mereka dari jarak jauh secara praktis dan real-time.
