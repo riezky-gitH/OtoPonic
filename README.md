@@ -12,9 +12,9 @@ OtoPonic adalah solusi pertanian cerdas berbasis IoT yang dirancang untuk mengot
 ## Team Member :
 |      NRP      |       Nama      |    Jobdesk    |   Akun |
 | :-----------:|:----------------:| :------------:| :-----:|
-| 2123600003    | Taufiq  | Hardware Developer       | [Taufiq](https://github.com/Raditya-G)
+| 2123600003    | Taufiq  |  UI/UX Designer      | [Taufiq](https://github.com/Raditya-G)
 | 2123600006    | Auliya         |   UI/UX Designer | [Auilya](https://github.com/auliyarzk/)
-| 2123600017    | Brian         |    Programmer      | [Brian](https://github.com/Bismaap)
-| 2123600018    | Riezky                | Project Manager | [Riezky](https://github.com/NurRohmatHidayat)
-| 2123600020    | Subkhi               | UI/UX Designer     | [Subkhi](https://github.com/EzarPrasetya)
+| 2123600017    | Brian         |    Programmer      | [Brian](https://github.com/brianrjg)
+| 2123600018    | Riezky                | Project Manager | [Riezky](https://github.com/riezky-gitH)
+| 2123600020    | Subkhi               | Hardware Developer     | [Subkhi](https://github.com/subkhiMuhammad)
 | 2123600024    | Alwan               | 3D Designer     |[Alwan](https://github.com/Yadnur)
