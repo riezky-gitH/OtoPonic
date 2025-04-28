@@ -18,3 +18,19 @@ OtoPonic adalah solusi pertanian cerdas berbasis IoT yang dirancang untuk mengot
 | 2123600018    | Riezky                | Project Manager | [Riezky](https://github.com/riezky-gitH)
 | 2123600020    | Subkhi               | Hardware Developer     | [Subkhi](https://github.com/subkhiMuhammad)
 | 2123600024    | Alwan               | 3D Designer     |[Alwan](https://github.com/alwan441)
+
+
+## Manfaat
+
+- Otomatisasi penuh dan mengurangi kebutuhan intervensi manual
+- Pematauan pH, Kadar nutrisi, suhu, dan ketinggian air bisa kapan saja dan memudahkan pengambilan keputusan berdasarkan kondisi aktual tanaman secara Real-Time
+- Efisiensi waktu dan biaya dalam mengurangi pemborosan nutrisi dan air
+- Notifikasi kondisi abnornmal, seperti terdapat masalah penurunan pH atau kekurangan nutrisi
+- Skalibilitas dan Adaptabilitas dalam berbagai ukuran sistem hidroponik
+
+## Keunggulan
+
+- Integrasi IoT yang kuat dengan adanya sensor dan komunikasi data berbasis GSM untuk pemantauan jarak jauh yang stabil
+- Kontrol manual & otomatis yang dapat memberikan fleksibilitas
+- Antarmuka pengguna yang intuitif dalam penggunaan UI/UX
+- Mendukung keberlanjutan & efisiensi energi dalam mengurangi limbah air dan penggunaa sumber daya berlebihan
