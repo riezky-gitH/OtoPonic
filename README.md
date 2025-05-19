@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/f798dd65-90b7-4160-a82e-5f6c9158a804)
+
 # OtoPonic
 Solusi Pertanian Cerdas: Otomatisasi Hidroponik Berbasis IoT dengan Kendali Jarak Jauh dan Aplikasi Real-Time.
 
