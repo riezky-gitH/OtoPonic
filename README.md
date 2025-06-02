@@ -45,6 +45,13 @@ OtoPonic adalah solusi pertanian cerdas berbasis IoT yang dirancang untuk mengot
 ![Image](https://github.com/user-attachments/assets/5763bed8-cb23-4d6d-ac4c-7570801370ee)
 ![Image](https://github.com/user-attachments/assets/cea5a4aa-db13-4eb8-a719-819ca1d41111)
 
+## Tujuan
+1. **Mempermudah perawatan kebun hidroponik** dengan sistem otomatis yang mengatur pH, nutrisi, dan penyiraman secara mandiri.
+2. **Memantau kondisi tanaman secara real-time** melalui aplikasi atau web, kapan saja dan di mana saja.
+3. **Memberikan kontrol penuh jarak jauh**, sehingga pengguna bisa mengelola kebun tanpa harus selalu berada di lokasi.
+4. **Meningkatkan efisiensi dan hasil panen** dengan pengelolaan nutrisi dan air yang lebih akurat dan stabil.
+5. **Cocok untuk semua kalangan**, mulai dari petani pemula hingga profesional yang ingin solusi praktis dan modern.
+
 ## Manfaat
 
 - Otomatisasi penuh dan mengurangi kebutuhan intervensi manual
