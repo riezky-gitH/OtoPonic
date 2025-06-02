@@ -1,9 +1,7 @@
-## Profil Tim
-
-![Image](https://github.com/user-attachments/assets/43a4ca1c-5eb0-4693-82ad-b65283185631)
 
 
 ## OtoPonic
+![Image](https://github.com/user-attachments/assets/370582ad-63cf-4edc-bd84-be5e382bbc0a)
 Solusi Pertanian Cerdas: Otomatisasi Hidroponik Berbasis IoT dengan Kendali Jarak Jauh dan Aplikasi Real-Time.
 
 
@@ -41,9 +39,7 @@ OtoPonic adalah solusi pertanian cerdas berbasis IoT yang dirancang untuk mengot
 
 
 ## Foto Anggota Tim
-![Image](https://github.com/user-attachments/assets/b8f3f514-610d-45fa-b1f4-13fe6f30531f)
-![Image](https://github.com/user-attachments/assets/5763bed8-cb23-4d6d-ac4c-7570801370ee)
-![Image](https://github.com/user-attachments/assets/cea5a4aa-db13-4eb8-a719-819ca1d41111)
+![Image](https://github.com/user-attachments/assets/43a4ca1c-5eb0-4693-82ad-b65283185631)
 
 ## Tujuan
 1. **Mempermudah perawatan kebun hidroponik** dengan sistem otomatis yang mengatur pH, nutrisi, dan penyiraman secara mandiri.
