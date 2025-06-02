@@ -29,7 +29,6 @@ OtoPonic adalah solusi pertanian cerdas berbasis IoT yang dirancang untuk mengot
 
 
 ## Foto Anggota Tim
-![Image](https://github.com/user-attachments/assets/43a4ca1c-5eb0-4693-82ad-b65283185631)
 
 
 ## Manfaat
