@@ -1,3 +1,4 @@
+## Profil Tim
 
 # OtoPonic
 Solusi Pertanian Cerdas: Otomatisasi Hidroponik Berbasis IoT dengan Kendali Jarak Jauh dan Aplikasi Real-Time.
