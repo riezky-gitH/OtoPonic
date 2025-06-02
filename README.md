@@ -3,7 +3,7 @@
 ![Image](https://github.com/user-attachments/assets/43a4ca1c-5eb0-4693-82ad-b65283185631)
 
 
-# OtoPonic
+## OtoPonic
 Solusi Pertanian Cerdas: Otomatisasi Hidroponik Berbasis IoT dengan Kendali Jarak Jauh dan Aplikasi Real-Time.
 
 
@@ -11,7 +11,7 @@ OtoPonic adalah solusi pertanian cerdas berbasis IoT yang dirancang untuk mengot
 
 ## 📚 Daftar Isi
 
-1. [📌 Deskripsi Proyek](#-deskripsi-proyek)
+1. [📌 Deskripsi Proyek](#-OtoPonic)
 2. [🎯 Tujuan Proyek](#-tujuan-proyek)
 3. [🛠️ Teknologi dan Komponen](#️-teknologi-dan-komponen)
 4. [⚙️ Cara Kerja Sistem](#️-cara-kerja-sistem)
