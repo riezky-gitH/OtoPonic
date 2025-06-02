@@ -20,7 +20,7 @@ OtoPonic adalah solusi pertanian cerdas berbasis IoT yang dirancang untuk mengot
 | 2123600020    | Subkhi               | Hardware Developer     | [Subkhi](https://github.com/subkhiMuhammad)
 | 2123600024    | Alwan               | 3D Designer     |[Alwan](https://github.com/alwan441)
 
-## Foto Perkenalan
+## Foto Anggota Tim
 ![Image](https://github.com/user-attachments/assets/43a4ca1c-5eb0-4693-82ad-b65283185631)
 
 
