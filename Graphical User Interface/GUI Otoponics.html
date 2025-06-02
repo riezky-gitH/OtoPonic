@@ -1,0 +1,230 @@
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <title>
+   Hydroponic Monitoring
+  </title>
+  <script src="https://cdn.tailwindcss.com">
+  </script>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet"/>
+  <style>
+   /* Custom toggle switch styling to match the design */
+    input:checked + .slider {
+      background-color: #22c55e;
+    }
+    input:checked + .slider:before {
+      transform: translateX(1.25rem);
+      background-color: white;
+    }
+  </style>
+ </head>
+ <body class="bg-[#f0f7f6] min-h-screen flex items-center justify-center p-4">
+  <div class="max-w-5xl w-full rounded-2xl flex bg-[#1f2d3d] p-6 md:p-8" style="aspect-ratio: 4 / 3;">
+   <!-- Sidebar -->
+   <nav class="flex flex-col items-center space-y-10 bg-[#1f2d3d] text-[#a0b0b9] text-[10px] font-sans tracking-widest pt-6" style="width: 72px;">
+    <button aria-label="Add" class="w-8 h-8 rounded-md bg-[#4f5b66] flex items-center justify-center text-white text-lg">
+     <i class="fas fa-plus">
+     </i>
+    </button>
+    <div class="flex flex-col items-center space-y-1">
+     <i class="fas fa-thermometer-half text-xl">
+     </i>
+     <span>
+      SENSOR
+     </span>
+    </div>
+    <div class="flex flex-col items-center space-y-1">
+     <i class="fas fa-tint text-xl">
+     </i>
+     <span>
+      MANUAL
+     </span>
+     <span>
+      CONTROL
+     </span>
+    </div>
+    <div class="flex flex-col items-center space-y-1">
+     <i class="fas fa-cog text-xl">
+     </i>
+     <span>
+      SETTINGS
+     </span>
+    </div>
+   </nav>
+   <!-- Main content -->
+   <main class="flex-1 bg-white rounded-2xl p-6 md:p-8 flex flex-col font-sans text-[#1f2d3d]">
+    <!-- Header -->
+    <header class="flex justify-between items-center mb-6">
+     <h1 class="text-2xl font-semibold leading-tight">
+      Hydroponic Monitoring
+     </h1>
+     <time class="text-lg font-semibold">
+      10:23
+     </time>
+    </header>
+    <!-- System Status and Hydroponic Info -->
+    <section class="flex flex-col md:flex-row md:space-x-6 bg-[#fefefe] rounded-lg p-4 border border-[#e6e6e6] mb-8">
+     <div class="flex flex-col space-y-4 md:w-1/2">
+      <div class="inline-flex items-center space-x-2 bg-[#d9f5d9] text-[#22c55e] rounded-full px-3 py-1 w-max font-medium text-sm mb-2">
+       <i class="fas fa-check-circle">
+       </i>
+       <span>
+        System Status
+       </span>
+      </div>
+      <div class="grid grid-cols-2 gap-4">
+       <!-- Water Temperature -->
+       <div class="bg-[#1e90ff] rounded-lg p-4 text-white flex flex-col justify-between" style="min-height: 96px">
+        <div class="flex items-center space-x-2">
+         <i class="fas fa-thermometer-half text-3xl">
+         </i>
+         <div class="text-sm font-semibold leading-tight">
+          Water
+          <br/>
+          Temperature
+         </div>
+        </div>
+        <div class="text-2xl font-extrabold mt-2">
+         20.5
+         <span class="text-lg font-semibold">
+          °C
+         </span>
+        </div>
+       </div>
+       <!-- Air Temperature -->
+       <div class="bg-[#f9e6c7] rounded-lg p-4 text-[#4a3c2b] flex flex-col justify-between" style="min-height: 96px">
+        <div class="flex items-center space-x-2">
+         <i class="fas fa-thermometer-half text-3xl text-[#d46a3f]">
+         </i>
+         <div class="text-sm font-semibold leading-tight">
+          Air
+          <br/>
+          Tempa_t
+         </div>
+        </div>
+        <div class="text-2xl font-extrabold mt-2">
+         23,1
+         <span class="text-lg font-semibold">
+          °C
+         </span>
+        </div>
+       </div>
+       <!-- Humidity -->
+       <div class="bg-[#cce7fa] rounded-lg p-4 text-[#1a4f8a] flex flex-col justify-between" style="min-height: 96px">
+        <div class="flex items-center space-x-2">
+         <i class="fas fa-tint text-3xl">
+         </i>
+         <div class="text-sm font-semibold leading-tight">
+          Humidity
+         </div>
+        </div>
+        <div class="text-2xl font-extrabold mt-2">
+         67
+         <span class="text-lg font-semibold">
+          %
+         </span>
+        </div>
+       </div>
+       <!-- pH -->
+       <div class="bg-[#22c55e] rounded-lg p-4 text-white flex flex-col justify-between" style="min-height: 96px">
+        <div class="flex items-center space-x-2">
+         <i class="fas fa-tint text-3xl">
+         </i>
+         <div class="text-sm font-semibold leading-tight">
+          pH
+         </div>
+        </div>
+        <div class="text-2xl font-extrabold mt-2">
+         6,2
+        </div>
+       </div>
+      </div>
+     </div>
+     <!-- Hydroponic Illustration -->
+     <div class="md:flex-1 flex justify-center items-center mt-6 md:mt-0">
+      <img alt="Illustration of hydroponic system with three green plants, water container with roots visible, and a fan above" class="max-w-full h-auto rounded-lg" height="180" src="https://storage.googleapis.com/a1aa/image/b1290de4-9f73-4919-e039-510dd8a9bf90.jpg" width="320"/>
+     </div>
+    </section>
+    <!-- Controls -->
+    <section class="grid grid-cols-1 md:grid-cols-2 gap-8" style="">
+     <!-- Automatic Control -->
+     <div style="">
+      <h2 class="font-semibold text-lg mb-4">
+       Automatic Control
+      </h2>
+      <div class="space-y-4">
+       <!-- Nutrient Pump -->
+       <div class="flex items-center justify-between">
+        <span class="text-base font-normal">
+         Nutrient Pump
+        </span>
+        <span class="text-green-600 font-semibold">
+         ON
+        </span>
+       </div>
+       <!-- Fan -->
+       <div class="flex items-center justify-between">
+        <span class="text-base font-normal">
+         Fan
+        </span>
+        <span class="text-green-600 font-semibold">
+         ON
+        </span>
+       </div>
+       <!-- Water Addition -->
+       <div class="flex items-center justify-between">
+        <span class="text-base font-normal">
+         Water Addition
+        </span>
+        <span class="text-green-600 font-semibold">
+         ON
+        </span>
+       </div>
+      </div>
+     </div>
+     <!-- Manual Control -->
+     <div>
+      <h2 class="font-semibold text-lg mb-4">
+       Manual Control
+      </h2>
+      <div class="grid grid-cols-2 gap-6">
+       <button class="border border-[#e6e6e6] rounded-lg py-2 px-6 text-[#1f2d3d] text-base font-normal hover:bg-[#f0f7f6] transition flex items-center justify-between" type="button">
+        Nutrient Pump
+        <label class="relative inline-block w-10 h-6 ml-2">
+         <input aria-label="Nutrient Pump toggle" checked="" class="opacity-0 w-0 h-0 peer" type="checkbox"/>
+         <span class="slider absolute cursor-pointer top-0 left-0 right-0 bottom-0 bg-green-500 rounded-full transition-colors duration-300 before:content-[''] before:absolute before:left-1 before:top-1 before:bg-white before:border before:border-gray-300 before:rounded-full before:h-4 before:w-4 before:transition-transform before:duration-300 peer-checked:before:translate-x-5">
+         </span>
+        </label>
+       </button>
+       <button class="border border-[#e6e6e6] rounded-lg py-2 px-6 text-[#1f2d3d] text-base font-normal hover:bg-[#f0f7f6] transition flex items-center justify-between" type="button">
+        Water Addition
+        <label class="relative inline-block w-10 h-6 ml-2">
+         <input aria-label="Water Addition toggle" checked="" class="opacity-0 w-0 h-0 peer" type="checkbox"/>
+         <span class="slider absolute cursor-pointer top-0 left-0 right-0 bottom-0 bg-green-500 rounded-full transition-colors duration-300 before:content-[''] before:absolute before:left-1 before:top-1 before:bg-white before:border before:border-gray-300 before:rounded-full before:h-4 before:w-4 before:transition-transform before:duration-300 peer-checked:before:translate-x-5">
+         </span>
+        </label>
+       </button>
+       <button class="border border-[#e6e6e6] rounded-lg py-2 px-6 text-[#1f2d3d] text-base font-normal hover:bg-[#f0f7f6] transition flex items-center justify-between" type="button">
+        Fan
+        <label class="relative inline-block w-10 h-6 ml-2">
+         <input aria-label="Fan toggle" checked="" class="opacity-0 w-0 h-0 peer" type="checkbox"/>
+         <span class="slider absolute cursor-pointer top-0 left-0 right-0 bottom-0 bg-green-500 rounded-full transition-colors duration-300 before:content-[''] before:absolute before:left-1 before:top-1 before:bg-white before:border before:border-gray-300 before:rounded-full before:h-4 before:w-4 before:transition-transform before:duration-300 peer-checked:before:translate-x-5">
+         </span>
+        </label>
+       </button>
+       <button class="border border-[#e6e6e6] rounded-lg py-2 px-6 text-[#1f2d3d] text-base font-normal hover:bg-[#f0f7f6] transition flex items-center justify-between" type="button">
+        Water Addition
+        <label class="relative inline-block w-10 h-6 ml-2">
+         <input aria-label="Water Addition toggle" checked="" class="opacity-0 w-0 h-0 peer" type="checkbox"/>
+         <span class="slider absolute cursor-pointer top-0 left-0 right-0 bottom-0 bg-green-500 rounded-full transition-colors duration-300 before:content-[''] before:absolute before:left-1 before:top-1 before:bg-white before:border before:border-gray-300 before:rounded-full before:h-4 before:w-4 before:transition-transform before:duration-300 peer-checked:before:translate-x-5">
+         </span>
+        </label>
+       </button>
+      </div>
+     </div>
+    </section>
+   </main>
+  </div>
+ </body>
+</html>
