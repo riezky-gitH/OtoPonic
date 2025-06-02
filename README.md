@@ -12,15 +12,15 @@ OtoPonic adalah solusi pertanian cerdas berbasis IoT yang dirancang untuk mengot
 ## 📚 Daftar Isi
 
 1. [📌 Deskripsi Proyek](https://github.com/riezky-gitH/OtoPonic#OtoPonic)
-2. [🎯 Tujuan Proyek](#-tujuan-proyek)
-3. [🛠️ Teknologi dan Komponen](#️-teknologi-dan-komponen)
-4. [⚙️ Cara Kerja Sistem](#️-cara-kerja-sistem)
-5. [🧩 Diagram Alur Sistem](#-diagram-alur-sistem)
-6. [🌟 Keunggulan Proyek](#-keunggulan-proyek)
-7. [📈 Potensi Pengembangan](#-potensi-pengembangan)
-8. [🤝 Kolaborasi & Dukungan](#-kolaborasi--dukungan)
-9. [👥 Struktur Tim](#-struktur-tim)
-10. [📩 Hubungi Kami](#-hubungi-kami)
+2. [🎯 Tujuan Proyek](https://github.com/riezky-gitH/OtoPonic#)
+3. [🛠️ Teknologi dan Komponen](https://github.com/riezky-gitH/OtoPonic#)
+4. [⚙️ Cara Kerja Sistem](https://github.com/riezky-gitH/OtoPonic#)
+5. [🧩 Diagram Alur Sistem](https://github.com/riezky-gitH/OtoPonic#)
+6. [🌟 Keunggulan Proyek](https://github.com/riezky-gitH/OtoPonic#)
+7. [📈 Potensi Pengembangan](https://github.com/riezky-gitH/OtoPonic#)
+8. [🤝 Kolaborasi & Dukungan](https://github.com/riezky-gitH/OtoPonic#)
+9. [👥 Struktur Tim](https://github.com/riezky-gitH/OtoPonic#team-member-)
+10. [📩 Hubungi Kami](https://github.com/riezky-gitH/OtoPonic#)
     
 ## Support By :
 >- Dosen Pengampu : Akhmad Hendriawan ST., MT. (NIP.197501272002121003)
