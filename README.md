@@ -1,5 +1,8 @@
 ## Profil Tim
 
+![Image](https://github.com/user-attachments/assets/43a4ca1c-5eb0-4693-82ad-b65283185631)
+
+
 # OtoPonic
 Solusi Pertanian Cerdas: Otomatisasi Hidroponik Berbasis IoT dengan Kendali Jarak Jauh dan Aplikasi Real-Time.
 
