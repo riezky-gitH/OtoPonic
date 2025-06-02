@@ -5,7 +5,7 @@
 
 <p align="center" style="font-size:38px"><strong>Solusi Pertanian Cerdas: Otomatisasi Hidroponik Berbasis IoT dengan Kendali Jarak Jauh dan Aplikasi Real-Time.</strong></p>
 <p align="center">
-    <img src=![Image](https://github.com/user-attachments/assets/370582ad-63cf-4edc-bd84-be5e382bbc0a)width="800"/>
+    <img src="https://github.com/user-attachments/assets/370582ad-63cf-4edc-bd84-be5e382bbc0a"width="800"/>
 </p>
 
 
