@@ -11,7 +11,7 @@ OtoPonic adalah solusi pertanian cerdas berbasis IoT yang dirancang untuk mengot
 
 ## 📚 Daftar Isi
 
-1. [📌 Deskripsi Proyek](#-OtoPonic)
+1. [📌 Deskripsi Proyek](https://github.com/riezky-gitH/OtoPonic#OtoPonic)
 2. [🎯 Tujuan Proyek](#-tujuan-proyek)
 3. [🛠️ Teknologi dan Komponen](#️-teknologi-dan-komponen)
 4. [⚙️ Cara Kerja Sistem](#️-cara-kerja-sistem)
