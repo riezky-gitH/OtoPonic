@@ -69,11 +69,11 @@ OtoPonic adalah solusi pertanian cerdas berbasis IoT yang dirancang untuk mengot
 - Mendukung keberlanjutan & efisiensi energi dalam mengurangi limbah air dan penggunaa sumber daya berlebihan
 
 ## 🚀 Potensi Pengembangan OtoPonic
-🌐 Integrasi ke IoT Cloud – Memungkinkan pemantauan dan kendali kebun dari seluruh dunia dengan notifikasi otomatis berbasis data real-time.
-🔔 Peringatan Cerdas via WhatsApp/SMS – Memberi tahu pengguna secara langsung saat terjadi kondisi kritis seperti kekurangan nutrisi atau gangguan sistem.
-🧠 Prediksi dan Optimasi Tanaman dengan AI – Analisis data historis untuk memprediksi kebutuhan nutrisi dan pertumbuhan tanaman secara presisi dengan Machine Learning.
-🏙️ Kompatibel dengan Smart City – Mendukung integrasi dengan sistem kota pintar untuk pertanian urban dan edukasi berbasis teknologi.
-📊 Dashboard Analytics – Menyediakan laporan dan visualisasi pertumbuhan tanaman, konsumsi nutrisi, serta efisiensi sistem secara periodik.
+- 🌐 Integrasi ke IoT Cloud – Memungkinkan pemantauan dan kendali kebun dari seluruh dunia dengan notifikasi otomatis berbasis data real-time.
+- 🔔 Peringatan Cerdas via WhatsApp/SMS – Memberi tahu pengguna secara langsung saat terjadi kondisi kritis seperti kekurangan nutrisi atau gangguan sistem.
+- 🧠 Prediksi dan Optimasi Tanaman dengan AI – Analisis data historis untuk memprediksi kebutuhan nutrisi dan pertumbuhan tanaman secara presisi dengan Machine Learning.
+- 🏙️ Kompatibel dengan Smart City – Mendukung integrasi dengan sistem kota pintar untuk pertanian urban dan edukasi berbasis teknologi.
+- 📊 Dashboard Analytics – Menyediakan laporan dan visualisasi pertumbuhan tanaman, konsumsi nutrisi, serta efisiensi sistem secara periodik.
 
 ## Desain Skematik
 ![Image](https://github.com/user-attachments/assets/5ad54e73-796f-4b39-9f43-e8945d51dbc9)
