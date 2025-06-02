@@ -61,8 +61,13 @@ OtoPonic adalah solusi pertanian cerdas berbasis IoT yang dirancang untuk mengot
 ## 3D Desain PCB
 ![Image](https://github.com/user-attachments/assets/557863b2-be6e-4b96-943e-eea73ef05dc9)
 
+## 3D Desain Casing
+
+
 ## Blok Diagram
 ![Image](https://github.com/user-attachments/assets/fcc233df-afd4-4bd4-ad21-809674008a2e)
+
+## Diagram Arsitektur Sistem
 
 ## Tampilan Aplikasi OtoPonic
 1. Login
