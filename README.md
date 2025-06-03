@@ -6,7 +6,7 @@
 
 ## 📚 **Daftar Isi**
 
-1. [Deskripsi Produk](https://github.com/riezky-gitH/OtoPonic#deskripsi-produk)
+1. [Deskripsi Produk](https://github.com/riezky-gitH/OtoPonic#📦deskripsi-produk)
 2. [Struktur Tim](https://github.com/riezky-gitH/OtoPonic#team-member)
 3. [Tujuan Produk](https://github.com/riezky-gitH/OtoPonic#tujuan)
 4. [Keunggulan Produk](https://github.com/riezky-gitH/OtoPonic#keunggulan)
