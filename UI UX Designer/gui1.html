@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Monitoring Hidroponik</title>
+  <style>
+    :root {
+      --primary-color: #28a745;
+      --background: #e9f5ec;
+      --card-bg: #ffffff;
+      --text-dark: #333;
+      --text-light: #666;
+    }
+
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: var(--background);
+      color: var(--text-dark);
+    }
+
+    header {
+
+      background-color: var(--primary-color);
+      color: white;
+      padding: 20px 10px;
+      text-align: center;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: 24px;
+    }
+
+    .container {
+      max-width: 600px;
+      margin: 30px auto;
+      padding: 0 15px;
+    }
+
+    .btn {
+      display: block;
+      width: 100%;
+      background-color: var(--primary-color);
+      color: white;
+      border: none;
+      border-radius: 6px;
+      padding: 12px;
+      font-size: 16px;
+      cursor: pointer;
+      margin-bottom: 20px;
+      transition: background-color 0.3s ease;
+    }
+
+    .btn:hover {
+      background-color: #218838;
+      background-image: url('tanaman.jpg');
+
+    }
+
+    .card {
+      background-color: var(--card-bg);
+      border-radius: 10px;
+      padding: 20px;
+      margin-bottom: 15px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+
+    .label {
+      font-weight: bold;
+      display: block;
+      font-size: 16px;
+      margin-bottom: 5px;
+      color: var(--text-light);
+    }
+
+    .value {
+      font-size: 24px;
+      font-weight: bold;
+      color: var(--primary-color);
+    }
+
+    @media (max-width: 480px) {
+      .value { font-size: 20px; }
+      h1 { font-size: 20px; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Dashboard Monitoring Hidroponik</h1>
+  </header>
+
+  <div class="container">
+    <button class="btn" id="connect">🔌 Hubungkan ke Arduino</button>
+
+    <div class="card">
+      <span class="label">🌡️ Suhu Air</span>
+      <span class="value" id="suhu">-</span> °C
+    </div>
+
+    <div class="card">
+      <span class="label">💧 Water Level</span>
+      <span class="value" id="air">-</span>
+    </div>
+
+    <div class="card">
+      <span class="label">🧪 TDS</span>
+      <span class="value" id="tds">-</span> ppm
+    </div>
+
+    <div class="card">
+      <span class="label">⚗️ pH</span>
+      <span class="value" id="ph">-</span>
+    </div>
+  </div>
+
+  <script>
+    let port;
+    let reader;
+
+    document.getElementById('connect').addEventListener('click', async () => {
+      try {
+        port = await navigator.serial.requestPort();
+        await port.open({ baudRate: 9600 });
+
+        const decoder = new TextDecoderStream();
+        const inputDone = port.readable.pipeTo(decoder.writable);
+        const inputStream = decoder.readable;
+        reader = inputStream.getReader();
+
+        listenToSerial();
+      } catch (err) {
+        alert("Gagal menghubungkan ke Arduino: " + err);
+      }
+    });
+
+    async function listenToSerial() {
+      let buffer = "";
+
+      while (true) {
+        const { value, done } = await reader.read();
+        if (done) break;
+        if (value) {
+          buffer += value;
+          let lines = buffer.split('\n');
+          buffer = lines.pop(); // sisakan yang belum lengkap
+
+          for (let line of lines) {
+            line = line.trim();
+
+            if (line.startsWith("Suhu:")) {
+              document.getElementById('suhu').textContent = line.replace("Suhu:", "").replace("°C", "").trim();
+            } else if (line.startsWith("Water level:")) {
+              document.getElementById('air').textContent = line.replace("Water level:", "").trim();
+            } else if (line.startsWith("TDS:")) {
+              document.getElementById('tds').textContent = line.replace("TDS:", "").replace("ppm", "").trim();
+            } else if (line.startsWith("pH:")) {
+              document.getElementById('ph').textContent = line.replace("pH:", "").trim();
+            }
+
+            console.log("Data masuk:", line);
+          }
+        }
+      }
+    }
+  </script>
+</body>
+</html>
