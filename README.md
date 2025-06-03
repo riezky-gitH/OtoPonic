@@ -4,7 +4,7 @@
   <img src="https://github.com/user-attachments/assets/7adf5986-1909-441d-bef2-fef0b0e8c84f" width="800"/>
 </p>
 
-## 📚 Daftar Isi
+## 📚 **Daftar Isi**
 
 1. [📌 Deskripsi Proyek](https://github.com/riezky-gitH/OtoPonic#OtoPonic)
 2. [🎯 Tujuan Proyek](https://github.com/riezky-gitH/OtoPonic#)
@@ -17,7 +17,7 @@
 9. [👥 Struktur Tim](https://github.com/riezky-gitH/OtoPonic#team-member-)
 10. [📩 Hubungi Kami](https://github.com/riezky-gitH/OtoPonic#)
 
-## Deskripsi Produk
+## 📦 **Deskripsi Produk**
 OtoPonic adalah solusi pertanian cerdas berbasis IoT yang dirancang untuk mengotomatiskan sistem hidroponik dengan fitur pemantauan real-time dan kendali jarak jauh melalui aplikasi atau web. Sistem ini mampu memantau berbagai parameter penting seperti pH air, kadar nutrisi, suhu air, serta ketinggian air dalam pipa hidroponik. OtoPonic dilengkapi dengan fitur kontrol otomatis, seperti aktivasi pompa nutrisi saat kadar terlalu rendah, pengaturan pH air dengan pompa pH up/down, dan penyiraman atau pengurasan otomatis dalam instalasi hidroponik. Selain itu, pengguna juga dapat mengontrol sistem secara manual melalui dashboard yang intuitif serta menerima notifikasi saat terjadi kondisi abnormal. Proyek ini bertujuan untuk meningkatkan efisiensi dan kenyamanan dalam bercocok tanam hidroponik, terutama bagi pengguna yang ingin memantau dan mengelola kebun mereka dari jarak jauh secara praktis dan real-time.
 
     
@@ -28,7 +28,7 @@ OtoPonic adalah solusi pertanian cerdas berbasis IoT yang dirancang untuk mengot
 >- Politeknik Elektronika Negeri Surabaya<br>
 
 
-## Team Member :
+## 👥 **Team Member **
 |      NRP      |       Nama      |    Jobdesk    |   Akun |
 | :-----------:|:----------------:| :------------:| :-----:|
 | 2123600003    | Taufiq  |  UI/UX Designer      | [Taufiq](https://github.com/Raditya-G)
@@ -39,26 +39,18 @@ OtoPonic adalah solusi pertanian cerdas berbasis IoT yang dirancang untuk mengot
 | 2123600024    | Alwan               | 3D Designer     |[Alwan](https://github.com/alwan441)
 
 
-## Foto Anggota Tim :
+## Foto Anggota Tim 
 ![Image](https://github.com/user-attachments/assets/43a4ca1c-5eb0-4693-82ad-b65283185631)
 
-## Tujuan :
+## 🎯**Tujuan **
 1. **Mempermudah perawatan kebun hidroponik** dengan sistem otomatis yang mengatur pH, nutrisi, dan penyiraman secara mandiri.
 2. **Memantau kondisi tanaman secara real-time** melalui aplikasi atau web, kapan saja dan di mana saja.
 3. **Memberikan kontrol penuh jarak jauh**, sehingga pengguna bisa mengelola kebun tanpa harus selalu berada di lokasi.
 4. **Meningkatkan efisiensi dan hasil panen** dengan pengelolaan nutrisi dan air yang lebih akurat dan stabil.
 5. **Cocok untuk semua kalangan**, mulai dari petani pemula hingga profesional yang ingin solusi praktis dan modern.
 
-## Manfaat :
 
-- Otomatisasi penuh dan mengurangi kebutuhan intervensi manual
-- Pematauan pH, Kadar nutrisi, suhu, dan ketinggian air bisa kapan saja dan memudahkan pengambilan keputusan berdasarkan kondisi aktual tanaman secara Real-Time
-- Efisiensi waktu dan biaya dalam mengurangi pemborosan nutrisi dan air
-- Notifikasi kondisi abnornmal, seperti terdapat masalah penurunan pH atau kekurangan nutrisi
-- Skalibilitas dan Adaptabilitas dalam berbagai ukuran sistem hidroponik
-  
-
-## Keunggulan :
+## 🌟**Keunggulan **
 
 - Integrasi IoT yang kuat dengan adanya sensor dan komunikasi data berbasis GSM untuk pemantauan jarak jauh yang stabil
 - Kontrol manual & otomatis yang dapat memberikan fleksibilitas
