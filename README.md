@@ -93,6 +93,7 @@
 ## Aplikasi OtoPonic
 ### 1. Login
 ### 2. Dashboard
+![Image](https://github.com/user-attachments/assets/93a67702-3a66-4cdd-b5d4-5e238e903c51)
 ### 3. Data Riwayat
 ### 4. Langkah - Langkah Penggunaan
 
