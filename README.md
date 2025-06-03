@@ -72,29 +72,29 @@
 - **UMKM & Petani Modern** – Otomatisasi untuk hasil lebih optimal.
   
 ## Hardware
-1. Desain Skematik
+# 1. Desain Skematik
 ![Image](https://github.com/user-attachments/assets/5ad54e73-796f-4b39-9f43-e8945d51dbc9)
 
-2. Desain PCB
+# 2. Desain PCB
 ![Image](https://github.com/user-attachments/assets/aca647eb-e210-49db-b7bb-c48877baabe4)
 
-3. 3D Desain PCB
+# 3. 3D Desain PCB
 ![Image](https://github.com/user-attachments/assets/557863b2-be6e-4b96-943e-eea73ef05dc9)
 
-4. 3D Desain Casing
+# 4. 3D Desain Casing
 
 
 ## Software
-1. Blok Diagram
+# 1. Blok Diagram
 ![Image](https://github.com/user-attachments/assets/fcc233df-afd4-4bd4-ad21-809674008a2e)
 
-2. Diagram Arsitektur Sistem
+# 2. Diagram Arsitektur Sistem
 
 ## Aplikasi OtoPonic
-1. Login
-2. Dashboard
-3. Data Riwayat
-4. Langkah - Langkah Penggunaan
+# 1. Login
+# 2. Dashboard
+# 3. Data Riwayat
+# 4. Langkah - Langkah Penggunaan
 
 ## Hubungi Kami
 
