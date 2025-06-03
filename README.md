@@ -96,7 +96,7 @@
 ### 2. Dashboard
 ![Image](https://github.com/user-attachments/assets/93a67702-3a66-4cdd-b5d4-5e238e903c51)
 ### 3. Data Riwayat
-
+![Image](https://github.com/user-attachments/assets/5589ca40-c303-4cd4-b060-c5174b1cb5f8)
 ### 4. Langkah - Langkah Penggunaan
 
 ## Hubungi Kami
