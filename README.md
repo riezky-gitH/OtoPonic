@@ -43,7 +43,7 @@
 ![Image](https://github.com/user-attachments/assets/43a4ca1c-5eb0-4693-82ad-b65283185631)
 
 ## Tujuan
-1. **Mempermudah perawatan kebun hidroponik** dengan sistem otomatis yang mengatur pH, nutrisi, dan penyiraman secara mandiri.
+- **Mempermudah perawatan kebun hidroponik** dengan sistem otomatis yang mengatur pH, nutrisi, dan penyiraman secara mandiri.
 2. **Memantau kondisi tanaman secara real-time** melalui aplikasi atau web, kapan saja dan di mana saja.
 3. **Memberikan kontrol penuh jarak jauh**, sehingga pengguna bisa mengelola kebun tanpa harus selalu berada di lokasi.
 4. **Meningkatkan efisiensi dan hasil panen** dengan pengelolaan nutrisi dan air yang lebih akurat dan stabil.
