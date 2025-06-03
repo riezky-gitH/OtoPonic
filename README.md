@@ -6,7 +6,7 @@
 
 ## 📚 **Daftar Isi**
 
-1. [Deskripsi Produk]([#-deskripsi-produk](https://github.com/riezky-gitH/OtoPonic#deskripsi-produk)
+1. [Deskripsi Produk](https://github.com/riezky-gitH/OtoPonic#deskripsi-produk)
 2. [Struktur Tim](https://github.com/riezky-gitH/OtoPonic#team-member)
 3. [Tujuan Produk](https://github.com/riezky-gitH/OtoPonic#tujuan)
 4. [Keunggulan Produk](https://github.com/riezky-gitH/OtoPonic#keunggulan)
@@ -28,7 +28,7 @@ OtoPonic adalah solusi pertanian cerdas berbasis IoT yang dirancang untuk mengot
 >- Politeknik Elektronika Negeri Surabaya<br>
 
 
-## 👥 Team Member
+## Team Member
 |      NRP      |       Nama      |    Jobdesk    |   Akun |
 | :-----------:|:----------------:| :------------:| :-----:|
 | 2123600003    | Taufiq  |  UI/UX Designer      | [Taufiq](https://github.com/Raditya-G)
