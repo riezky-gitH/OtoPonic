@@ -6,29 +6,29 @@
 
 ## 📚 **Daftar Isi**
 
-1. [📌 Deskripsi Proyek](https://github.com/riezky-gitH/OtoPonic#OtoPonic)
-2. [🎯 Tujuan Proyek](https://github.com/riezky-gitH/OtoPonic#)
-3. [🛠️ Teknologi dan Komponen](https://github.com/riezky-gitH/OtoPonic#)
-4. [⚙️ Cara Kerja Sistem](https://github.com/riezky-gitH/OtoPonic#)
-5. [🧩 Diagram Alur Sistem](https://github.com/riezky-gitH/OtoPonic#)
-6. [🌟 Keunggulan Proyek](https://github.com/riezky-gitH/OtoPonic#)
-7. [📈 Potensi Pengembangan](https://github.com/riezky-gitH/OtoPonic#)
-8. [🤝 Kolaborasi & Dukungan](https://github.com/riezky-gitH/OtoPonic#)
-9. [👥 Struktur Tim](https://github.com/riezky-gitH/OtoPonic#team-member-)
-10. [📩 Hubungi Kami](https://github.com/riezky-gitH/OtoPonic#)
+1. [📦 Deskripsi Produk](https://github.com/riezky-gitH/OtoPonic#deskripsi-produk-)
+2. [Struktur Tim](https://github.com/riezky-gitH/OtoPonic#team-member-)
+3. [Tujuan Produk](https://github.com/riezky-gitH/OtoPonic#tujuan)
+4. [Keunggulan Produk](https://github.com/riezky-gitH/OtoPonic#keunggulan)
+5. [Potensi Pengembangan](https://github.com/riezky-gitH/OtoPonic#potensi-pengembangan-)
+6. [Kolaborasi & Dukungan](https://github.com/riezky-gitH/OtoPonic#kolaborasi--dukungan-)
+7. [Keunggulan Proyek](https://github.com/riezky-gitH/OtoPonic#)
+8. [Potensi Pengembangan](https://github.com/riezky-gitH/OtoPonic#)
+9. [Kolaborasi & Dukungan](https://github.com/riezky-gitH/OtoPonic#)
+10. [ Hubungi Kami](https://github.com/riezky-gitH/OtoPonic#)
 
-## 📦 **Deskripsi Produk**
+## 📦 Deskripsi Produk
 OtoPonic adalah solusi pertanian cerdas berbasis IoT yang dirancang untuk mengotomatiskan sistem hidroponik dengan fitur pemantauan real-time dan kendali jarak jauh melalui aplikasi atau web. Sistem ini mampu memantau berbagai parameter penting seperti pH air, kadar nutrisi, suhu air, serta ketinggian air dalam pipa hidroponik. OtoPonic dilengkapi dengan fitur kontrol otomatis, seperti aktivasi pompa nutrisi saat kadar terlalu rendah, pengaturan pH air dengan pompa pH up/down, dan penyiraman atau pengurasan otomatis dalam instalasi hidroponik. Selain itu, pengguna juga dapat mengontrol sistem secara manual melalui dashboard yang intuitif serta menerima notifikasi saat terjadi kondisi abnormal. Proyek ini bertujuan untuk meningkatkan efisiensi dan kenyamanan dalam bercocok tanam hidroponik, terutama bagi pengguna yang ingin memantau dan mengelola kebun mereka dari jarak jauh secara praktis dan real-time.
 
     
-## Support By :
+## 🤝 Support By 
 >- Dosen Pengampu : Akhmad Hendriawan ST., MT. (NIP.197501272002121003)
 >- Mata kuliah : Mikrokontroller
 >- Program Studi : D4 Teknik Elektronika
 >- Politeknik Elektronika Negeri Surabaya<br>
 
 
-## 👥 **Team Member **
+## 👥 Team Member
 |      NRP      |       Nama      |    Jobdesk    |   Akun |
 | :-----------:|:----------------:| :------------:| :-----:|
 | 2123600003    | Taufiq  |  UI/UX Designer      | [Taufiq](https://github.com/Raditya-G)
@@ -39,10 +39,10 @@ OtoPonic adalah solusi pertanian cerdas berbasis IoT yang dirancang untuk mengot
 | 2123600024    | Alwan               | 3D Designer     |[Alwan](https://github.com/alwan441)
 
 
-## Foto Anggota Tim 
+## 👥 Foto Anggota Tim 
 ![Image](https://github.com/user-attachments/assets/43a4ca1c-5eb0-4693-82ad-b65283185631)
 
-## 🎯**Tujuan **
+## 🎯 Tujuan
 1. **Mempermudah perawatan kebun hidroponik** dengan sistem otomatis yang mengatur pH, nutrisi, dan penyiraman secara mandiri.
 2. **Memantau kondisi tanaman secara real-time** melalui aplikasi atau web, kapan saja dan di mana saja.
 3. **Memberikan kontrol penuh jarak jauh**, sehingga pengguna bisa mengelola kebun tanpa harus selalu berada di lokasi.
@@ -50,26 +50,26 @@ OtoPonic adalah solusi pertanian cerdas berbasis IoT yang dirancang untuk mengot
 5. **Cocok untuk semua kalangan**, mulai dari petani pemula hingga profesional yang ingin solusi praktis dan modern.
 
 
-## 🌟**Keunggulan **
+## 🌟 Keunggulan
 
 - Integrasi IoT yang kuat dengan adanya sensor dan komunikasi data berbasis GSM untuk pemantauan jarak jauh yang stabil
 - Kontrol manual & otomatis yang dapat memberikan fleksibilitas
 - Antarmuka pengguna yang intuitif dalam penggunaan UI/UX
 - Mendukung keberlanjutan & efisiensi energi dalam mengurangi limbah air dan penggunaa sumber daya berlebihan
 
-## 🚀 **Potensi Pengembangan OtoPonic** :
-- 🌐 **IoT Cloud** – Akses global & notifikasi real-time.
-- 🔔 **Peringatan WhatsApp/SMS** – Info langsung saat kondisi kritis.
-- 🧠 **AI & Machine Learning** – Prediksi kebutuhan nutrisi & pertumbuhan.
-- 🏙️ **Smart City Ready** – Siap terintegrasi dengan infrastruktur kota pintar.
-- 📊 **Dashboard Analytics** – Visualisasi data & performa tanaman.
+## 🚀 Potensi Pengembangan OtoPonic
+- **IoT Cloud** – Akses global & notifikasi real-time.
+- **Peringatan WhatsApp/SMS** – Info langsung saat kondisi kritis.
+- **AI & Machine Learning** – Prediksi kebutuhan nutrisi & pertumbuhan.
+- **Smart City Ready** – Siap terintegrasi dengan infrastruktur kota pintar.
+- **Dashboard Analytics** – Visualisasi data & performa tanaman.
 
-## 🤝 **Kolaborasi & Dukungan** :
-- 🔧 **Investor Teknologi** – Skala produksi & fitur lebih canggih.
-- 🧪 **Startup/R&D** – Kolaborasi pengembangan sensor & AI.
-- 🎓 **Kampus/Inkubator** – Edukasi & riset pertanian cerdas.
-- 🏛️ **Pemerintah & Komunitas** – Implementasi urban farming pintar.
-- 🌱 **UMKM & Petani Modern** – Otomatisasi untuk hasil lebih optimal.
+## 🤝 Kolaborasi & Dukungan
+- **Investor Teknologi** – Skala produksi & fitur lebih canggih.
+- **Startup/R&D** – Kolaborasi pengembangan sensor & AI.
+- **Kampus/Inkubator** – Edukasi & riset pertanian cerdas.
+- **Pemerintah & Komunitas** – Implementasi urban farming pintar.
+- **UMKM & Petani Modern** – Otomatisasi untuk hasil lebih optimal.
   
 ## Desain Skematik
 ![Image](https://github.com/user-attachments/assets/5ad54e73-796f-4b39-9f43-e8945d51dbc9)
