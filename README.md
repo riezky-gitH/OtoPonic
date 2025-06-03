@@ -6,12 +6,12 @@
 
 ## 📚 **Daftar Isi**
 
-1. [📦 Deskripsi Produk](https://github.com/riezky-gitH/OtoPonic#deskripsi-produk-)
-2. [Struktur Tim](https://github.com/riezky-gitH/OtoPonic#team-member-)
+1. [Deskripsi Produk](https://github.com/riezky-gitH/OtoPonic#deskripsi-produk)
+2. [Struktur Tim](https://github.com/riezky-gitH/OtoPonic#team-member)
 3. [Tujuan Produk](https://github.com/riezky-gitH/OtoPonic#tujuan)
 4. [Keunggulan Produk](https://github.com/riezky-gitH/OtoPonic#keunggulan)
-5. [Potensi Pengembangan](https://github.com/riezky-gitH/OtoPonic#potensi-pengembangan-)
-6. [Kolaborasi & Dukungan](https://github.com/riezky-gitH/OtoPonic#kolaborasi--dukungan-)
+5. [Potensi Pengembangan](https://github.com/riezky-gitH/OtoPonic#potensi-pengembangan)
+6. [Kolaborasi & Dukungan](https://github.com/riezky-gitH/OtoPonic#kolaborasi--dukungan)
 7. [Keunggulan Proyek](https://github.com/riezky-gitH/OtoPonic#)
 8. [Potensi Pengembangan](https://github.com/riezky-gitH/OtoPonic#)
 9. [Kolaborasi & Dukungan](https://github.com/riezky-gitH/OtoPonic#)
@@ -39,7 +39,7 @@ OtoPonic adalah solusi pertanian cerdas berbasis IoT yang dirancang untuk mengot
 | 2123600024    | Alwan               | 3D Designer     |[Alwan](https://github.com/alwan441)
 
 
-## 👥 Foto Anggota Tim 
+## Foto Anggota Tim 
 ![Image](https://github.com/user-attachments/assets/43a4ca1c-5eb0-4693-82ad-b65283185631)
 
 ## 🎯 Tujuan
