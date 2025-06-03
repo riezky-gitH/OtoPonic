@@ -99,6 +99,8 @@
 ![Image](https://github.com/user-attachments/assets/5589ca40-c303-4cd4-b060-c5174b1cb5f8)
 ### 4. Langkah - Langkah Penggunaan
 
+![Image](https://github.com/riezky-gitH/OtoPonic/blob/main/Assets/GUI%20otoponics%20.jpg))
+
 ## Hubungi Kami
 
 Untuk kerja sama, pertanyaan, atau demo proyek:
