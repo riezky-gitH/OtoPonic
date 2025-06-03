@@ -1,7 +1,7 @@
 # Otomatisasi Hidroponik Berbasis IoT dengan Kendali Jarak Jauh dan Aplikasi Real-Time.
 ### Solusi Pertanian Cerdas Masa Kini
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/08590e7b-6b03-420d-8796-74b25262ea00" width="400"/>
+  <img src="https://github.com/user-attachments/assets/f00c4713-3366-49b3-bbba-b3fc9d8f9f0e" width="400"/>
 </p>
 
 ## Daftar Isi
