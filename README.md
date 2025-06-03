@@ -44,10 +44,10 @@
 
 ## Tujuan
 - **Mempermudah perawatan kebun hidroponik** dengan sistem otomatis yang mengatur pH, nutrisi, dan penyiraman secara mandiri.
-2. **Memantau kondisi tanaman secara real-time** melalui aplikasi atau web, kapan saja dan di mana saja.
-3. **Memberikan kontrol penuh jarak jauh**, sehingga pengguna bisa mengelola kebun tanpa harus selalu berada di lokasi.
-4. **Meningkatkan efisiensi dan hasil panen** dengan pengelolaan nutrisi dan air yang lebih akurat dan stabil.
-5. **Cocok untuk semua kalangan**, mulai dari petani pemula hingga profesional yang ingin solusi praktis dan modern.
+- **Memantau kondisi tanaman secara real-time** melalui aplikasi atau web, kapan saja dan di mana saja.
+- **Memberikan kontrol penuh jarak jauh**, sehingga pengguna bisa mengelola kebun tanpa harus selalu berada di lokasi.
+- **Meningkatkan efisiensi dan hasil panen** dengan pengelolaan nutrisi dan air yang lebih akurat dan stabil.
+- **Cocok untuk semua kalangan**, mulai dari petani pemula hingga profesional yang ingin solusi praktis dan modern.
 
 
 ## Keunggulan
