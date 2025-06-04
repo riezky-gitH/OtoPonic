@@ -83,6 +83,7 @@
 ![Image](https://github.com/user-attachments/assets/557863b2-be6e-4b96-943e-eea73ef05dc9)
 
 ### 4. 3D Desain Casing
+![Image](https://github.com/riezky-gitH/OtoPonic/issues/1#issue-3117643482)
 
 
 
