@@ -83,7 +83,7 @@
 ![Image](https://github.com/user-attachments/assets/557863b2-be6e-4b96-943e-eea73ef05dc9)
 
 ### 4. 3D Desain Casing
-<img src="https://github.com/user-attachments/assets/1a35e1ab-d11d-48e0-97b0-99d6967dca70" width="400"/>
+![Image](https://github.com/user-attachments/assets/49b030a7-e3af-454e-bd61-ca0a9bb96afe)
 
 
 ## Software
