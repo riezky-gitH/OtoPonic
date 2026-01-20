@@ -82,9 +82,6 @@
 ### 3. 3D Desain PCB
 ![Image](https://github.com/user-attachments/assets/557863b2-be6e-4b96-943e-eea73ef05dc9)
 
-### 4. 3D Desain Casing
-![Image](https://github.com/user-attachments/assets/49b030a7-e3af-454e-bd61-ca0a9bb96afe)
-
 
 ## Software
 ### 1. Blok Diagram
